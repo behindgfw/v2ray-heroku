@@ -24,7 +24,7 @@
 
 ## 注意
 
-WebSocket 路径为 `/`。
+WebSocket 路径为 `/pathto`。
 
 `alterId` 为 `64`。
 
